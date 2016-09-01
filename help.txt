@@ -1,0 +1,8 @@
+
+//help
+======================
+
+DB name: blogdb
+user:
+email: admin@admin.com
+pass: admin
